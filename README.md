@@ -1,5 +1,16 @@
 # Home Credit Default Risk
 
+## Table of Contents
+- [Overview](#overview)
+- [Objective](#objective)
+- [Steps](#steps)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Machine Learning Techniques](#machine-learning-techniques)
+- [Evaluation Results](#evaluation-results)
+- [System Flowchart](#system-flowchart)
+- [Evaluation Metrics](#evaluation-metrics)
+
 ## Overview
 Many individuals struggle to obtain loans due to insufficient or non-existent credit histories. **Home Credit** aims to enhance financial inclusion for the unbanked population by offering a secure and positive borrowing experience. This project leverages alternative data to assess clients' repayment abilities and predict which applicants are most likely to default.
 
